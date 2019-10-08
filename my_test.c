@@ -1,5 +1,5 @@
 int main(void)
 {
-	pritf("Hello World!");
+	printf("Hello World!");
 	retuun 1;
 }
