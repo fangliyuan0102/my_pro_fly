@@ -1,5 +1,4 @@
-int my_demo(void)
+void my_demo(void)
 {
 	printf("My demo project!");
-	return 1;
 }
